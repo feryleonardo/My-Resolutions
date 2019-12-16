@@ -3,4 +3,5 @@ My Resolutions on 2020
 - Saya ingin menjadi BackEnd Developer
 - Saya ingin menguasai Semua bahasa program terkait web development
 - Saya ingin menguasai salah satu framework backend & salah satu framework frontend
-- Saya ingin menjadi android developer
+- Saya ingin menjadi mobile aps developer (android/ios)
+- Saya ingin membuat web profile untuk meletakkan portfolio saya
